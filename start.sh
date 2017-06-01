@@ -1,1 +1,1 @@
-sudo forever start index.js -l log.log &
+pm2 start index.js

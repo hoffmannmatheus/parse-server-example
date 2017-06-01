@@ -1,1 +1,1 @@
-forever stop index.js
+pm2 stop index
